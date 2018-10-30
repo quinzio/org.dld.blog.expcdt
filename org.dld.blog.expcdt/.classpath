@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/MUNARID/.p2/pool/plugins/org.eclipse.core.runtime_3.15.0.v20180817-1401.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MUNARID/.p2/pool/plugins/org.eclipse.equinox.common_3.10.100.v20180827-1235.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

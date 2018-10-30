@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Expcdt
+Bundle-SymbolicName: org.dld.blog.expcdt
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: org.dld.blog.expcdt
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.eclipse.jface.operation,
+ org.eclipse.jface.viewers,
+ org.eclipse.jface.wizard,
+ org.eclipse.ui
